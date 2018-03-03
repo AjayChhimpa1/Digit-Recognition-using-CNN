@@ -2,7 +2,7 @@
 Digit Recognition(MNIST Dataset) using CNN
 
 Convolutional neural network model(tensorflow) for digit recognition using MNIST dataset.<br>
-Achieved an accuracy of more than 99% on test set. 
+Achieved an accuracy of around 99.4% on test set. 
 
 1. CNN with total 4 layers
 2. Optimization Algorithm: AdamOptimizer
