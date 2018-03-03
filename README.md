@@ -11,4 +11,4 @@ Achieved an accuracy of around 99.4% on test set.
 4. max-pooling: size = [1, 2, 2, 1], strides = [1, 2, 2, 1]
 
 Link to google colab:
-[MNIST_3.2_convolutional_lrdecay_maxpool_dropout.ipynb](https://colab.research.google.com/drive/1-rj1-EPw0cIJHiNS4xnSYoKmzqq744M3)
+[Convolutional_lrdecay_maxpool_dropout.ipynb](https://colab.research.google.com/drive/1-rj1-EPw0cIJHiNS4xnSYoKmzqq744M3)
