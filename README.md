@@ -1,4 +1,4 @@
-# Digit-Recognition-using-CNN
+# Handwritten Digit-Recognition-using-CNN
 Digit Recognition(MNIST Dataset) using CNN
 
 Convolutional neural network model(tensorflow) for digit recognition using MNIST dataset.<br>
